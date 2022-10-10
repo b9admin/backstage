@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: mc-engagement-portal
+  name: Customer-Journey
   description: Everything related to MC 2
   tags:
     - mc
 spec:
-  owner: team-mc
+  owner: squad-mc
   domain: finance
