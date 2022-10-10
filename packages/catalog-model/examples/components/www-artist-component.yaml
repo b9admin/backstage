@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: wallet: e-Wallet service
+  name: e-Wallet service
   description: Artist main website
 spec:
   type: website
