@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: boxoffice
-  description: The boxoffice sub-department
+  name: Platform
+  description: Enabling developers
 spec:
   type: sub-department
   profile:
