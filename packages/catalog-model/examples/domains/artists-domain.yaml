@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: artists
+  name: minicash
   description: Everything related to artists
   links:
     - url: http://example.com/domain/artists/
@@ -10,4 +10,4 @@ metadata:
       title: Domain Metrics Dashboard
       icon: dashboard
 spec:
-  owner: team-mc
+  owner: squad-mc
