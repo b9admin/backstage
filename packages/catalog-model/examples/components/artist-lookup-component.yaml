@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: iam:Authentication and Authorization
+  name: Authentication and Authorization
   description: Authentication and Authorization
   tags:
     - java
