@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-b
-  description: Team B
+  name: Loan-Management
+  description: Squad MC
 spec:
   type: team
   profile:
-    displayName: Team B
+    displayName: Loan Management
     email: team-b@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-b@example.com.svg?background=%23fff&margin=25
   parent: backstage
