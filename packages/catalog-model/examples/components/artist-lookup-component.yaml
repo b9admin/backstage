@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Authentication-and-Authorization
+  name: iam-Authentication-and-Authorization
   description: Authentication and Authorization
   tags:
     - java
@@ -31,7 +31,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-mc
+  owner: squad-mc
   system: mc-engagement-portal
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
