@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mc-lookup
-  description: MC Lookup
+  name: iam:Authentication and Authorization
+  description: Authentication and Authorization
   tags:
     - java
     - data
