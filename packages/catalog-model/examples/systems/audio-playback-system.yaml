@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: audio-playback
-  description: Audio playback system
+  name: Loan-Management
+  description: MC2 system
 spec:
-  owner: team-c
-  domain: playback
+  owner: squad-mc
+  domain: minicash
