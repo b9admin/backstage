@@ -9,7 +9,7 @@ spec:
     displayName: Credit Risk and Finance
     email: team-c@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-c@example.com.svg?background=%23fff&margin=25
-  parent: backstage
+  parent: minicash
   children: []
 ---
 apiVersion: backstage.io/v1alpha1
