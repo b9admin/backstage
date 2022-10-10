@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-d
-  description: Team D
+  name: Open-Loop
+  description: Open Loop
 spec:
   type: team
   profile:
-    displayName: Team D
+    displayName: Open Loop
     email: team-d@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-d@example.com.svg?background=%23fff&margin=25
   parent: boxoffice
