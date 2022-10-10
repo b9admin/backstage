@@ -6,8 +6,8 @@ metadata:
 spec:
   type: sub-department
   profile:
-    displayName: Box Office
+    displayName: Platform
     email: boxoffice@example.com
     # Intentional no picture for testing
-  parent: infrastructure
+  parent: btech-corp
   children: [team-c, team-d]
