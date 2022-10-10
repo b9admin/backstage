@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: playback
-  description: Everything related to audio playback
+  name: Digital-platform
+  description: Everything related to enabling developers
 spec:
   owner: user:frank.tiernan
