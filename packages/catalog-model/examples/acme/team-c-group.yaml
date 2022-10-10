@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-c
-  description: Team C
+  name: Credit-Risk-and-Finance
+  description: Credit Risk and Finance
 spec:
   type: team
   profile:
-    displayName: Team C
+    displayName: Credit Risk and Finance
     email: team-c@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-c@example.com.svg?background=%23fff&margin=25
   parent: boxoffice
