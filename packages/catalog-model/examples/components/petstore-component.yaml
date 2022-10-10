@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: frontend
   # This is an extra long description
-  description: The Petstore is an example API used to show features of the OpenAPI spec.
+  description: Web application of MiniCash 2.0
   links:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
@@ -11,7 +11,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-c
+  owner: squad-mc
   providesApis:
     - petstore
     - streetlights
