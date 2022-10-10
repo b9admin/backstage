@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-mc
-  description: Team MC Tech
+  name: Customer-Journey
+  description: Squad MC 
 spec:
   type: team
   profile:
