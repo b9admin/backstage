@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: podcast
-  description: Podcast playback
+  name: Credit-Risk-and-Finance
+  description: MC2
 spec:
-  owner: team-b
-  domain: playback
+  owner: squad-mc
+  domain: minicash
