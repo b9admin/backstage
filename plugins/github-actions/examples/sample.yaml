@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
-  description: backstage.io
+  name: Backend
+  description: Backend
   annotations:
     github.com/project-slug: 'backstage/backstage'
     backstage.io/techdocs-ref: url:https://github.com/backstage/backstage
