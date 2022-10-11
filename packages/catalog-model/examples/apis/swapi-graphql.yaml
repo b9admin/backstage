@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: starwars-graphql
-  description: SWAPI GraphQL Schema
+  name: credit-scoring
+  description: Service responsible for aggregating data and calculate consumer credit score
   links:
     - url: https://github.com/graphql/swapi-graphql
       title: GitHub Repo
