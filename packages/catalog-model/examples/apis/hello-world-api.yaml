@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: hello-world
-  description: Hello World example for gRPC
+  name: Frontend
+  description: Minicash frontend
 spec:
   type: grpc
   lifecycle: deprecated
