@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: spotify
-  description: The Spotify web API
+  name: order-loan-mapper
+  description: Mapping of orders to loan. This is needed to enrich the loan information with Sales Order data which is not part of the core LMS solution
   tags:
     - spotify
     - rest
